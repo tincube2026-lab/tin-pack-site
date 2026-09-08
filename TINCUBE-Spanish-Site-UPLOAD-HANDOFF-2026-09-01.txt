@@ -1,0 +1,30 @@
+TINCUBE 西班牙语工厂官网 - 上传交接说明
+日期：2026-09-01
+
+一、待上传目录
+TINCUBE-Spanish-Factory-Site-READY-FOR-UPLOAD-2026-09-01
+
+该目录是目前确认的最新西班牙语网站版本，共 33 个部署文件。上传时请将目录内的全部内容作为网站根目录，不要上传本交接说明。
+
+二、正式上线前必须完成
+1. 确认最终域名以及 Cloudflare Pages 项目，不要沿用其他网站的项目或域名。
+2. 将 sitemap.xml 和 rss.xml 中的 https://dominio-pendiente.invalid/ 全部替换为最终正式域名。
+3. 将全部 HTML 页面中的 robots 设置从 noindex, nofollow 改为 index, follow。
+4. 修改 robots.txt，允许搜索引擎抓取，并加入最终站点地图地址：
+   Sitemap: https://最终域名/sitemap.xml
+5. 根据最终域名补齐或核对 canonical、Open Graph URL、JSON-LD、llms.txt、RSS 和 sitemap 中的网址一致性。
+6. 检查 Cloudflare Pages 的 _headers 和 _redirects、HTTPS、移动端页面、所有内部链接、图片、WhatsApp、邮箱和 Alibaba 国际站链接。
+7. 正式域名上线并返回 HTTP 200 后，再向 Google Search Console 提交 sitemap.xml 和主要页面。
+
+三、仍需客户补充的信息
+- 创始人及高管团队的真实姓名、职位、照片和履历尚未提供。
+- liderazgo 页面当前保留人物照片和资料占位结构。不得自行编造人物身份或经历。
+
+四、已确认联系方式
+- Phone / WhatsApp: +86 135 9279 6305
+- Email: sales1@tin-cube.com
+- Alibaba: https://tincube.en.alibaba.com/
+
+五、交付边界
+- 本次仅整理最新网站文件，未执行 Cloudflare、GitHub、域名、Google Search Console 的上传、建站或账号操作。
+- 文件中不包含账号、密码、API Key 或其他登录凭据。

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Vista previa. Sustituir dominio-pendiente.invalid por el dominio final antes de publicar. -->
+<rss version="2.0">
+  <channel>
+    <title>Conocimiento TINCUBE en español</title>
+    <link>https://dominio-pendiente.invalid/recursos/</link>
+    <description>Guías para compradores de envases de hojalata personalizados, fabricación OEM/ODM y control de calidad.</description>
+    <language>es</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Guía para comprar envases de hojalata personalizados</title>
+      <link>https://dominio-pendiente.invalid/recursos/guia-envases-hojalata-personalizados/</link>
+      <guid isPermaLink="true">https://dominio-pendiente.invalid/recursos/guia-envases-hojalata-personalizados/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Cómo preparar un briefing, comparar moldes, confirmar impresión y acabados, validar muestras y verificar la capacidad de una fábrica de envases metálicos.</description>
+    </item>
+  </channel>
+</rss>
