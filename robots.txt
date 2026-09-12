@@ -1,3 +1,4 @@
-# Vista previa: mantener fuera de los buscadores hasta confirmar el dominio.
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://tin-pack.com/sitemap.xml
