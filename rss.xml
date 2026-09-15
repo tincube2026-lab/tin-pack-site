@@ -1,18 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Vista previa. Sustituir dominio-pendiente.invalid por el dominio final antes de publicar. -->
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>Conocimiento TINCUBE en español</title>
+    <title>TINCUBE | Guías de envases de hojalata</title>
     <link>https://tin-pack.com/recursos/</link>
-    <description>Guías para compradores de envases de hojalata personalizados, fabricación OEM/ODM y control de calidad.</description>
+    <description>Aplicaciones, fabricación y compras de envases metálicos personalizados.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>Guía para comprar envases de hojalata personalizados</title>
-      <link>https://tin-pack.com/recursos/guia-envases-hojalata-personalizados/</link>
-      <guid isPermaLink="true">https://tin-pack.com/recursos/guia-envases-hojalata-personalizados/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Cómo preparar un briefing, comparar moldes, confirmar impresión y acabados, validar muestras y verificar la capacidad de una fábrica de envases metálicos.</description>
+      <title>Cómo elegir latas personalizadas para té</title>
+      <link>https://tin-pack.com/recursos/latas-personalizadas-para-te/</link>
+      <guid>https://tin-pack.com/recursos/latas-personalizadas-para-te/</guid>
+      <description>La selección empieza por el té real: hojas sueltas, polvo, bolsitas o una bolsa de recarga. TINCUBE ofrece desarrollo de envases de hojalata para té; el formato debe comprobarse con el contenido y la forma de llenado, no solo con un peso comercial.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Envases de hojalata para café: estructura y conservación</title>
+      <link>https://tin-pack.com/recursos/envases-de-hojalata-para-cafe/</link>
+      <guid>https://tin-pack.com/recursos/envases-de-hojalata-para-cafe/</guid>
+      <description>Distinga café en grano, molido, monodosis y bolsas selladas. Para un proyecto de regalo o recarga, una ruta inicial es ajustar la lata alrededor del envase primario existente. El llenado directo requiere una revisión adicional del cierre, los materiales de contacto y la conservación.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cajas metálicas personalizadas para regalos y colecciones</title>
+      <link>https://tin-pack.com/recursos/cajas-metalicas-personalizadas-regalos/</link>
+      <guid>https://tin-pack.com/recursos/cajas-metalicas-personalizadas-regalos/</guid>
+      <description>Un envase de regalo se diseña alrededor del conjunto completo y de su apertura. TINCUBE trabaja con cajas y latas de regalo personalizadas; la estructura, el inserto y la decoración deben responder al contenido, a la presentación de marca y al calendario de la colección.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latas para galletas, chocolate y confitería</title>
+      <link>https://tin-pack.com/recursos/latas-para-galletas-chocolate-confiteria/</link>
+      <guid>https://tin-pack.com/recursos/latas-para-galletas-chocolate-confiteria/</guid>
+      <description>Seleccione el envase según la presentación real: piezas sueltas, dulces envueltos, tabletas o un surtido con bandeja. La abertura, el interior y los materiales de contacto deben revisarse juntos. Una lata decorativa no sustituye el sistema de protección que necesita el alimento.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estuches metálicos para juegos y cartas coleccionables</title>
+      <link>https://tin-pack.com/recursos/estuches-metalicos-juegos-cartas/</link>
+      <guid>https://tin-pack.com/recursos/estuches-metalicos-juegos-cartas/</guid>
+      <description>El formato se decide con el juego completo: mazo, fundas, fichas, dados, tablero, instrucciones e inserto. El catálogo de TINCUBE contempla envases para juegos; el contenido y el montaje no se consideran incluidos salvo acuerdo expreso.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estuches metálicos para acuarelas y material artístico</title>
+      <link>https://tin-pack.com/recursos/estuches-metalicos-acuarelas/</link>
+      <guid>https://tin-pack.com/recursos/estuches-metalicos-acuarelas/</guid>
+      <description>TINCUBE presenta estuches de acuarela entre sus aplicaciones. La selección parte de las pastillas reales, la bandeja y la distribución de mezcla. Un número de colores no define toda la geometría, ni implica que las pinturas estén incluidas en el suministro.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Molde existente o nuevo: cómo desarrollar una lata a medida</title>
+      <link>https://tin-pack.com/recursos/moldes-latas-personalizadas/</link>
+      <guid>https://tin-pack.com/recursos/moldes-latas-personalizadas/</guid>
+      <description>Un molde existente es una buena primera ruta cuando su cavidad y su cierre cumplen el proyecto. Una nueva estructura puede requerir desarrollo específico. TINCUBE contempla ambas opciones; la selección debe apoyarse en el plano y la muestra, no únicamente en una fotografía similar.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impresión, color y acabados en hojalata</title>
+      <link>https://tin-pack.com/recursos/impresion-color-acabados-hojalata/</link>
+      <guid>https://tin-pack.com/recursos/impresion-color-acabados-hojalata/</guid>
+      <description>La impresión convierte una estructura en un envase de marca. TINCUBE contempla CMYK, referencias Pantone, mate, brillo, texturas, relieve y bajorrelieve como opciones de proyecto. Su combinación se confirma para la estructura, el diseño y el proceso seleccionados.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insertos y protección para envases metálicos</title>
+      <link>https://tin-pack.com/recursos/insertos-proteccion-envases-metalicos/</link>
+      <guid>https://tin-pack.com/recursos/insertos-proteccion-envases-metalicos/</guid>
+      <description>El envase y su inserto se desarrollan juntos alrededor del producto. Un separador de cartón, una pieza de fibra o una espuma son candidatos de diseño, no componentes disponibles automáticamente. La elección debe resolver colocación, protección y extracción con una muestra ajustada.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contacto alimentario: qué revisar en una lata personalizada</title>
+      <link>https://tin-pack.com/recursos/contacto-alimentario-documentacion-latas/</link>
+      <guid>https://tin-pack.com/recursos/contacto-alimentario-documentacion-latas/</guid>
+      <description>El contacto directo debe confirmarse para la construcción y el uso seleccionados. La categoría «lata para alimentos» no constituye una aprobación universal. La revisión se centra en los materiales interiores reales, los componentes de contacto y la documentación que corresponde al proyecto.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muestras, control de calidad y pedidos repetidos</title>
+      <link>https://tin-pack.com/recursos/control-calidad-muestras-latas/</link>
+      <guid>https://tin-pack.com/recursos/control-calidad-muestras-latas/</guid>
+      <description>Una aprobación útil identifica exactamente el plano, los gráficos, la muestra y los criterios aceptados. En un proyecto TINCUBE, estructura, decoración, interior y embalaje deben revisarse con el alcance acordado antes de pasar a producción.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo preparar una consulta, presupuesto y entrega</title>
+      <link>https://tin-pack.com/recursos/cotizacion-plazos-entrega-envases/</link>
+      <guid>https://tin-pack.com/recursos/cotizacion-plazos-entrega-envases/</guid>
+      <description>Para empezar no necesita una especificación perfecta. Una foto, el contenido, una medida conocida y el destino permiten iniciar la conversación con TINCUBE. El presupuesto formal llega cuando la estructura, los componentes y las condiciones comerciales están suficientemente definidos.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rediseño de envases: materiales, reutilización y protección</title>
+      <link>https://tin-pack.com/recursos/rediseno-envases-reutilizacion-materiales/</link>
+      <guid>https://tin-pack.com/recursos/rediseno-envases-reutilizacion-materiales/</guid>
+      <description>Cambiar de material tiene sentido cuando mejora una función concreta del embalaje. Compare protección, componentes, distribución y uso posterior. Una caja metálica puede estudiarse como envase exterior de marca o almacenamiento, pero no implica por sí sola una ventaja ambiental demostrada.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
